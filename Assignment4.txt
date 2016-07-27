@@ -1,0 +1,13 @@
+This is my theory homework
+
+1.) Just use the strcat() function to concatenate two strings.
+2.) The size of the array will be set to nothing. If you do not initialize a static array, a size will not be set until you set one for it.
+3.) To declare a multdimensional array of size 64, you need to give the computer two pieces of data that multiply to thirty two. Example, int array[32][2]
+4.) strcmp() compares two strings and sees if they are identical or not, and sees which string is bigger or smaller according to ascaa.
+
+    fgets() essentially reads in a string that the user inputs.
+
+    strcat() concatenates two strings, which basically means combining the two strings together
+
+    strlen() finds the length of a string
+    
